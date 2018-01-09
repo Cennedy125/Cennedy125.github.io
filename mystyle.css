@@ -106,7 +106,7 @@ body {
 .first:hover {
     opacity: 1;
     color: transparent;
-    background: url(./school2.jpg);
+    background: url(../school2.jpg);
 }
 .second {
     opacity: 0.8;
