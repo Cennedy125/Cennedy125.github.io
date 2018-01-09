@@ -106,7 +106,7 @@ body {
 .first:hover {
     opacity: 1;
     color: transparent;
-    background: url('school2.jpg');
+    background: url(./school2.jpg);
 }
 .second {
     opacity: 0.8;
@@ -117,7 +117,7 @@ body {
 .second:hover {
     opacity: 1;
     color: transparent;
-    background: url('pacman.png');
+    background: url(./pacman.png);
 }
 .third {
     opacity: 0.8;
@@ -128,5 +128,5 @@ body {
 .third:hover {
     opacity: 1;
     color: transparent;
-    background: url('needles_highway.jpg');
+    background: url(./needles_highway.jpg);
 }
